@@ -1,0 +1,6 @@
+torch
+torchvision
+gradio
+jinja2
+scipy
+
